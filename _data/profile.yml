@@ -93,7 +93,7 @@ education:
 
 misc:
 - name: Reviewer
-  content: ICCV, CVPR, ECCV, ICLR, ICML, NeurIPS, ACM MM, AAAI, ACM Computing Surveys, TIP, TPAMI
+  content: ICCV, CVPR, ECCV, ICLR, ICML, NeurIPS, ACM MM, AAAI, ACM Computing Surveys, TIP, TPAMI, IJCV
   
 - name: Volunteer
   content: ICCV 2023
