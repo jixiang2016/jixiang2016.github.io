@@ -95,8 +95,8 @@ misc:
 - name: "Grant Project"
   content: '<span class="text-info"><strong>Generative AI Agents for University Ecosystems: Facilitating Academic Mapping and Research Navigation</strong></span>, supported by AI Center Interdisciplinary Research Promotion Fund, the University of Tokyo (<strong>Principle Investigator</strong>), 2025-2026'
   
-#- name: Award
-#  content: ICCV 2025 Outstanding Reviewer
+- name: Award
+  content: ICCV 2025 Outstanding Reviewer
   
 - name: Reviewer
   content: ICCV, CVPR, ECCV, ICLR, ICML, NeurIPS, ACM MM, AAAI, ACM Computing Surveys, TIP, TPAMI, IJCV
